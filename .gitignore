@@ -1,0 +1,10 @@
+# Visual Studio temp
+/Scientific-Calculator/.vs
+
+# bin
+/Scientific-Calculator/bin
+/CalculatorNUnitTests/bin
+
+# obj
+/Scientific-Calculator/obj
+/CalculatorNUnitTests/obj
